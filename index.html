@@ -1,15 +1,24 @@
 <html>
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Number plate</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
   </head>
   <body>
     <center>
-      Enter mobile number with country code without plus sign<br>
+      <p>Enter mobile number</p><br>
       <br>
       
-      <input type="text" id="phoneNumber"><br><br>
-      <button type="button" onclick="getPhoneNumber()">Generate Link</button>
+      <input type="text" id="phoneNumber" class="css-input"><br><br>
+      <button type="button" onclick="getPhoneNumber()" class="btn">Generate Link</button>
       
-      <p><a href="" id="link" target="_blank"></a></p>
+      <p><a href="" id="link" class="btn" target="_blank">Send Message</a></p>
     </center>
     
     <script src="index.js"></script>
