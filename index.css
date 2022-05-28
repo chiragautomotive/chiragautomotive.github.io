@@ -1,4 +1,4 @@
-p {
+.header {
     font-family: 'Montserrat', sans-serif;
     font-size: 170%;
 }
@@ -33,7 +33,7 @@ p {
   }
   .css-input {
     padding: 5px;
-    font-size: 150%;
+    font-size: 135%;
     border-width: 1px;
     border-color: #CCCCCC;
     background-color: #FFFFFF;
@@ -45,4 +45,14 @@ p {
 }
 .css-input:focus {
     outline:none;
+}
+
+.ver {
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.copyright{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 85%;
 }
