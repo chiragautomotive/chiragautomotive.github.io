@@ -3,5 +3,5 @@ function getPhoneNumber(){
             var inputVal = 91+document.getElementById("phoneNumber").value;
         var walink ="https://wa.me/"+inputVal
  
-  window.open("https://wa.me/"+inputVal+"?text=Greetings%20Dear%20Member,%20%0A%0AYour%20*vehicle%20number%20plate%20is%20ready%20for%20fitting*.%20Kindly%20visit%20our%20showroom%20for%20your%20vehicle%20number%20plate%20fitting.%20%0A%0A*Chirag%20Automotive*%20%0A%0AGF%20-%2023/24%20Earth%20Eon%20Opp%20sama%20lake%20opp%20urmi%20school%20sama%20savli%20road%20,%20Vadodara.%20%0A%0ATiming:%20MONDAY%20-%20SATURDAY%20%20%0A2%20pm%20to%203%20pm%20%0AM%20No%20*7041756888*")
+  window.open("https://wa.me/"+inputVal+"?text=પ્રિય%20ગ્રાહક%2C%0A%0Aચિરાગ%20ઑટોમોટિવ%20માં%20આપનું%20હાર્દિક%20સ્વાગત%20છે.%20*તમારી%20એમપીર%20ઇલેક્ટ્રિક%20ગાડીની%20સર્વિસનો%20ટાઈમ%20થઈ%20ગયો%20છે*%20તો%20તમારી%20ગાડી%20સર્વિસમાં%20લાવાની%20વિનંતી.%20સમય%20પર%20સર્વિસ%20ના%20કરાવા%20થી%20ગાડી%20માં%20તકલીફ%20આઈ%20શકે%20છે.%20%0A%0Aસર્વિસ%20માટે%20એપોઇન્ટમેન્ટ%20બુક%20કરાવા%20માટે%20નીચે%20આપેલા%20નંબર%20પાર%20"Hi"%20મેસસૅજ%20કરવા%20વિનંતી%0A%0A*9023342463*%20%0A%0Aજો%20તમારી%20સર્વિસ%20થઇ%20ગઈ%20હોય%20તો%20આ%20સંદેશ%20ઇગ્નોર%20કરવા%20વિનંતી%20%0A%0Aસમા%20સાવલી%3A%209023342463%20%0Aકલાલી%3A%209724136574%20%20%20")
 }
